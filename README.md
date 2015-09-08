@@ -2,6 +2,8 @@ Change Log
 ===
 2015-09-08
 ---
+* Changed Ruby Hall (Gludio) from 20m to 2m
+
 ### L2JMods.properties
 * EnableWarehouseSortingClan = True
 
