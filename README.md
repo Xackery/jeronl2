@@ -24,7 +24,7 @@ Change Log
 
 ### Character.properties
 * MaximumWarehouseSlotsForClan = 1000
-MaximumSlotsForNoDwarf = 80
+* MaximumSlotsForNoDwarf = 80
 
 
 2015-09-06
