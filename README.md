@@ -5,25 +5,26 @@ Change Log
 ### L2JMods.properties
 * EnableWarehouseSortingClan = True
 
-### NPC.properties
-*  DisableRaidCurse = True
-
 ### Rates.properties
-* PetXpRate = 10
+* PetXpRate = 20
+
 ### Feature.properties
 * ClanHallTeleportFunctionFeeRatio = 0
 * ClanHallTeleportFunctionFeeLvl1 = 0
 * ClanHallTeleportFunctionFeeLvl2 = 0
-ClanHallExpRegenerationFunctionFeeRatio = 0
-ClanHallExpRegenerationFeeLvl1 = 10000
-ClanHallExpRegenerationFeeLvl2 = 20000
-ClanHallExpRegenerationFeeLvl3 = 30000
-ClanHallExpRegenerationFeeLvl4 = 40000
-ClanHallExpRegenerationFeeLvl5 = 50000
-ClanHallExpRegenerationFeeLvl6 = 60000
-ClanHallExpRegenerationFeeLvl7 = 70000
+* ClanHallExpRegenerationFunctionFeeRatio = 0
+* ClanHallExpRegenerationFeeLvl1 = 10000
+* ClanHallExpRegenerationFeeLvl2 = 20000
+* ClanHallExpRegenerationFeeLvl3 = 30000
+* ClanHallExpRegenerationFeeLvl4 = 40000
+* ClanHallExpRegenerationFeeLvl5 = 50000
+* ClanHallExpRegenerationFeeLvl6 = 60000
+* ClanHallExpRegenerationFeeLvl7 = 70000
+* AltClanHallMpBuffFree = True # If true Clan Hall buff cost 0 mp.
 
-AltClanHallMpBuffFree = True # If true Clan Hall buff cost 0 mp.
+### Character.properties
+* MaximumWarehouseSlotsForClan = 1000
+MaximumSlotsForNoDwarf = 80
 
 
 2015-09-06
