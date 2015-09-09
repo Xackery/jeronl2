@@ -7,6 +7,8 @@ Change Log
 ### chamberlain.htm
 * Added Teleport function to main menu top.
 
+### teleGludio2.htm
+* Added new teleporter locations: Dion, Gludin, Giran, Hunter's Village.
 
 
 2015-09-08
