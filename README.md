@@ -1,5 +1,14 @@
 Change Log
 ===
+2015-09-09
+---
+* If respawn timer is < 120 seconds, doubled
+
+### chamberlain.htm
+* Added Teleport function to main menu top.
+
+
+
 2015-09-08
 ---
 * Changed Ruby Hall (Gludio) from 20m to 2m
