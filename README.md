@@ -3,6 +3,8 @@ Change Log
 2015-09-09
 ---
 * If respawn timer is < 120 seconds, doubled
+* Changed pet quest to only include correct answers. 419_q1.htm through 419_q15.htm
+ 
 
 ### chamberlain.htm
 * Added Teleport function to main menu top.
