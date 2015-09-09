@@ -8,7 +8,7 @@ Change Log
 * Added Teleport function to main menu top.
 
 ### teleGludio2.htm
-* Added new teleporter locations: Dion, Gludin, Giran, Hunter's Village.
+* Added new clan teleporter locations: Dion, Gludin, Giran, Aden
 
 
 2015-09-08
