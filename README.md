@@ -1,5 +1,18 @@
 Change Log
 ===
+2015-09-12
+---
+* Changed drop rate of Armor pieces for Frightened Ragna Orc 18807
+* Changed drop rate of Jewelry pieces for Ragnar Orc Healer 22695
+* Changed drop rate of Armor pieces for Ragna Orc Shaman 22696
+* Armor pieces for Ragna Orc Hero 22693
+* Armor pieces for Commander 22694
+* Armor pieces for Warrior 22692
+* Weapon pieces for Seer 22697
+* Weapon pieces for Archer 22698
+* Weapon pieces for Sniper 22699
+
+
 2015-09-09
 ---
 * If respawn timer is < 120 seconds, doubled
