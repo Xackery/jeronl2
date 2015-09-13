@@ -11,6 +11,8 @@ Change Log
 * Weapon pieces for Seer 22697
 * Weapon pieces for Archer 22698
 * Weapon pieces for Sniper 22699
+* Added clone of Holly 30254 in Clan Hall :3
+* Added B, A, S grade soulshots/spiritshots to Holly.
 
 
 2015-09-09
