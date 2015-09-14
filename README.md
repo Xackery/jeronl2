@@ -1,5 +1,12 @@
 Change Log
 ===
+2015-09-13
+---
+* Changed drop rate of Weapon for Varangka's Destroyer 22702
+* Changed Chant of Revenge (1284) from 1200s to 7200s
+* 
+
+
 2015-09-12
 ---
 * Changed drop rate of Armor pieces for Frightened Ragna Orc 18807
