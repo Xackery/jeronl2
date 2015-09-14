@@ -5,6 +5,7 @@ Change Log
 * Changed drop rate of Weapon for Varangka's Destroyer 22702
 * Changed Chant of Revenge (1284) from 1200s to 7200s
 * Changed Prayer (1307) from 1200s to 7200s
+* Changed Body of Avatar (1311) from 1200s to 7200s
 
 
 2015-09-12
