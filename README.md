@@ -1,5 +1,20 @@
 Change Log
 ===
+
+2015-09-15
+---
+
+### NPC.properties
+* RaidHpRegenMultiplier 100 -> 25
+* RaidMpRegenMultiplier 100 -> 25
+* RaidPDefenceMultiplier 100 -> 25
+* RaidMDefenceMultiplier 100 -> 25
+* RaidPAttackMultiplier 100 -> 25
+* RaidMAttackMultiplier 100 -> 25
+* UseDeepBlueDropRulesRaid = False
+### Rates.properties
+* PetFoodRate 1 -> 0.25
+
 2015-09-14
 ---
 * Reduced skill cost of 309 skills.
