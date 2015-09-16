@@ -15,6 +15,237 @@ Change Log
 ### Rates.properties
 * PetFoodRate 1 -> 0.25
 
+### skills/*-*.xml
+* Changed Attack Aura (77) from 1200 to 7200 duration
+* Changed Defense Aura (91) from 1200 to 7200 duration
+* Changed Rapid Shot (99) from 1200 to 7200 duration
+* Changed Spirit Barrier (123) from 1200 to 7200 duration
+* Changed Sprint (230) from 1200 to 7200 duration
+* Changed Soul of Sagittarius (303) from 1200 to 7200 duration
+* Changed Spirit of Sagittarius (415) from 1200 to 7200 duration
+* Changed Blessing of Sagittarius (416) from 1200 to 7200 duration
+* Changed Rapid Attack (469) from 1200 to 7200 duration
+* Changed Fast Shot (490) from 1200 to 7200 duration
+* Changed Iron Shield (527) from 1200 to 7200 duration
+* Changed Divine Rogue Agility (690) from 1200 to 7200 duration
+* Changed Zaken Vampiric Rage (719) from 1200 to 7200 duration
+* Changed Venom Disillusion (727) from 1200 to 7200 duration
+* Changed Saber Tooth Tiger Sprint (748) from 1200 to 7200 duration
+* Changed Doll Blader Clairvoyance (754) from 1200 to 7200 duration
+* Changed Strengthen Golem (823) from 1200 to 7200 duration
+* Changed Golem Reinforcement (824) from 1200 to 7200 duration
+* Changed Sharp Edge (825) from 1200 to 7200 duration
+* Changed Spike (826) from 1200 to 7200 duration
+* Changed Restring (827) from 1200 to 7200 duration
+* Changed Case Harden (828) from 1200 to 7200 duration
+* Changed Hard Tanning (829) from 1200 to 7200 duration
+* Changed Embroider (830) from 1200 to 7200 duration
+* Changed Might (871) from 1200 to 7200 duration
+* Changed Rapid Shot (873) from 1200 to 7200 duration
+* Changed Empower (875) from 1200 to 7200 duration
+* Changed Deflect Magic (913) from 1200 to 7200 duration
+* Changed Acumen (971) from 1200 to 7200 duration
+* Changed Combat Aura (982) from 1200 to 7200 duration
+* Changed The Glory of Pa'agrio (1008) from 1200 to 7200 duration
+* Changed Soul Shield (1010) from 1200 to 7200 duration
+* Changed Invigor (1032) from 1200 to 7200 duration
+* Changed Resist Poison (1033) from 1200 to 7200 duration
+* Changed Magic Barrier (1036) from 1200 to 7200 duration
+* Changed Blessed Body (1045) from 1200 to 7200 duration
+* Changed Mana Regeneration (1047) from 1200 to 7200 duration
+* Changed Blessed Soul (1048) from 1200 to 7200 duration
+* Changed Empower (1059) from 1200 to 7200 duration
+* Changed Kiss of Eva (1073) from 1200 to 7200 duration
+* Changed Concentration (1078) from 1200 to 7200 duration
+* Changed Haste (1086) from 1200 to 7200 duration
+* Changed Servitor Magic Shield (1139) from 1200 to 7200 duration
+* Changed Servitor Physical Shield (1140) from 1200 to 7200 duration
+* Changed Servitor Haste (1141) from 1200 to 7200 duration
+* Changed Servitor Wind Walk (1144) from 1200 to 7200 duration
+* Changed Bright Servitor (1145) from 1200 to 7200 duration
+* Changed Mighty Servitor (1146) from 1200 to 7200 duration
+* Changed Resist Aqua (1182) from 1200 to 7200 duration
+* Changed Resist Wind (1189) from 1200 to 7200 duration
+* Changed Blazing Skin (1232) from 1200 to 7200 duration
+* Changed Freezing Skin (1238) from 1200 to 7200 duration
+* Changed Guidance (1240) from 1200 to 7200 duration
+* Changed Death Whisper (1242) from 1200 to 7200 duration
+* Changed The Vision of Pa'agrio (1249) from 1200 to 7200 duration
+* Changed Under the Protection of Pa'agrio (1250) from 1200 to 7200 duration
+* Changed Decrease Weight (1257) from 1200 to 7200 duration
+* Changed The Tact of Pa'agrio (1260) from 1200 to 7200 duration
+* Changed The Rage of Pa'agrio (1261) from 1200 to 7200 duration
+* Changed Vampiric Rage (1268) from 1200 to 7200 duration
+* Changed Pa'agrian Haste (1282) from 1200 to 7200 duration
+* Changed Wild Magic (1303) from 1200 to 7200 duration
+* Changed Elemental Protection (1352) from 1200 to 7200 duration
+* Changed Divine Protection (1353) from 1200 to 7200 duration
+* Changed Arcane Protection (1354) from 1200 to 7200 duration
+* Changed Chant of Spirit (1362) from 1200 to 7200 duration
+* Changed Eye of Pa'agrio (1364) from 1200 to 7200 duration
+* Changed Soul of Pa'agrio (1365) from 1200 to 7200 duration
+* Changed Greater Might (1388) from 1200 to 7200 duration
+* Changed Greater Shield (1389) from 1200 to 7200 duration
+* Changed Holy Resistance (1392) from 1200 to 7200 duration
+* Changed Unholy Resistance (1393) from 1200 to 7200 duration
+* Changed Clarity (1397) from 1200 to 7200 duration
+* Changed Increase Power (1432) from 1200 to 7200 duration
+* Changed Soul to Empower (1441) from 1200 to 7200 duration
+* Changed Protection from Darkness (1442) from 1200 to 7200 duration
+* Changed Dark Weapon (1443) from 1200 to 7200 duration
+* Changed Empowering Echo (1457) from 1200 to 7200 duration
+* Changed Mana Gain (1460) from 1200 to 7200 duration
+* Changed Chant of Protection (1461) from 1200 to 7200 duration
+* Changed Fire Weapon (1463) from 1200 to 7200 duration
+* Changed Ice Weapon (1464) from 1200 to 7200 duration
+* Changed Wind Weapon (1465) from 1200 to 7200 duration
+* Changed Earth Weapon (1466) from 1200 to 7200 duration
+* Changed Flame Armor (1492) from 1200 to 7200 duration
+* Changed Frost Armor (1493) from 1200 to 7200 duration
+* Changed Hurricane Armor (1494) from 1200 to 7200 duration
+* Changed Lightning Barrier (1515) from 1200 to 7200 duration
+* Changed Courage of Pa'agrio (1534) from 1200 to 7200 duration
+* Changed Counter Critical (1542) from 1200 to 7200 duration
+* Changed Spirit Sharing (1547) from 1200 to 7200 duration
+* Changed Resist Earth (1548) from 1200 to 7200 duration
+* Changed Chant of Elements (1549) from 1200 to 7200 duration
+* Changed Servitor Share (1557) from 1200 to 7200 duration
+* Changed Fury of Pa'agrio (1563) from 1200 to 7200 duration
+* Changed Haste Potion (2011) from 1200 to 7200 duration
+* Changed Potion of Alacrity (2012) from 1200 to 7200 duration
+* Changed Greater Haste Potion (2034) from 1200 to 7200 duration
+* Changed Greater Swift Attack Potion (2035) from 1200 to 7200 duration
+* Changed Magic Haste Potion (2169) from 1200 to 7200 duration
+* Changed Amulet: Protection of Valakas (2231) from 1200 to 7200 duration
+* Changed Amulet: Slay Valakas (2232) from 1200 to 7200 duration
+* Changed Bless of Fire (2248) from 1200 to 7200 duration
+* Changed Bless of Water (2249) from 1200 to 7200 duration
+* Changed Bless of Wind (2250) from 1200 to 7200 duration
+* Changed Bless of Earth (2251) from 1200 to 7200 duration
+* Changed Bless of Darkness (2252) from 1200 to 7200 duration
+* Changed Bless of Sacredness (2253) from 1200 to 7200 duration
+* Changed Primeval Potion (2305) from 1200 to 7200 duration
+* Changed Wind (2379) from 1200 to 7200 duration
+* Changed Shield (2380) from 1200 to 7200 duration
+* Changed Magic Barrier (2381) from 1200 to 7200 duration
+* Changed Bless Shield (2382) from 1200 to 7200 duration
+* Changed Haste (2383) from 1200 to 7200 duration
+* Changed Acumen (2384) from 1200 to 7200 duration
+* Changed Empower (2385) from 1200 to 7200 duration
+* Changed Divine Power (2386) from 1200 to 7200 duration
+* Changed Might (2387) from 1200 to 7200 duration
+* Changed Focus (2388) from 1200 to 7200 duration
+* Changed Guidance (2389) from 1200 to 7200 duration
+* Changed Berserker Spirit (2390) from 1200 to 7200 duration
+* Changed Clarity (2391) from 1200 to 7200 duration
+* Changed Mental Potion (2396) from 1200 to 7200 duration
+* Changed Stone of Destruction (2795) from 1200 to 7200 duration
+* Changed Stone of Invincibility (2796) from 1200 to 7200 duration
+* Changed Stone of Great Speed (2797) from 1200 to 7200 duration
+* Changed Stone of Speed (2798) from 1200 to 7200 duration
+* Changed Stone of Concentration (2799) from 1200 to 7200 duration
+* Changed Stone of Ease (2800) from 1200 to 7200 duration
+* Changed Stone of Abundance (2801) from 1200 to 7200 duration
+* Changed Energy Replenishing Herb Tea (2884) from 1200 to 7200 duration
+* Changed Mystery Effect (3404) from 1200 to 7200 duration
+* Changed Anti Strider Slow (4258) from 1200 to 7200 duration
+* Changed Holiday Haste (4263) from 1200 to 7200 duration
+* Changed Clan Hall: Wind Walk (4342) from 1200 to 7200 duration
+* Changed Clan Hall: Decrease Weight (4343) from 1200 to 7200 duration
+* Changed Clan Hall: Shield (4344) from 1200 to 7200 duration
+* Changed Clan Hall: Might (4345) from 1200 to 7200 duration
+* Changed Clan Hall: Mental Shield (4346) from 1200 to 7200 duration
+* Changed Clan Hall: Blessed Body (4347) from 1200 to 7200 duration
+* Changed Clan Hall: Blessed Soul (4348) from 1200 to 7200 duration
+* Changed Clan Hall: Magic Barrier (4349) from 1200 to 7200 duration
+* Changed Clan Hall: Resist Shock (4350) from 1200 to 7200 duration
+* Changed Clan Hall: Concentration (4351) from 1200 to 7200 duration
+* Changed Clan Hall: Berserker Spirit (4352) from 1200 to 7200 duration
+* Changed Clan Hall: Bless Shield (4353) from 1200 to 7200 duration
+* Changed Clan Hall: Vampiric Rage (4354) from 1200 to 7200 duration
+* Changed Clan Hall: Acumen (4355) from 1200 to 7200 duration
+* Changed Clan Hall: Empower (4356) from 1200 to 7200 duration
+* Changed Clan Hall: Haste (4357) from 1200 to 7200 duration
+* Changed Clan Hall: Guidance (4358) from 1200 to 7200 duration
+* Changed Clan Hall: Focus (4359) from 1200 to 7200 duration
+* Changed Clan Hall: Death Whisper (4360) from 1200 to 7200 duration
+* Changed Curse of Destruction (4361) from 1200 to 7200 duration
+* Changed Curse of Destruction (4362) from 1200 to 7200 duration
+* Changed Curse of Destruction (4363) from 1200 to 7200 duration
+* Changed Blessing of Revelations (4364) from 1200 to 7200 duration
+* Changed Blessing of Revelations (4365) from 1200 to 7200 duration
+* Changed Blessing of Prophecy (4366) from 1200 to 7200 duration
+* Changed Pet Blessed Body (5189) from 1200 to 7200 duration
+* Changed Pet Blessed Soul (5190) from 1200 to 7200 duration
+* Changed Speed Up (5236) from 1200 to 7200 duration
+* Changed Speed Down (5237) from 1200 to 7200 duration
+* Changed Vampiric Rage (5613) from 1200 to 7200 duration
+* Changed Feline Queen - Bless the Body (5638) from 1200 to 7200 duration
+* Changed Feline Queen - Bless the Soul (5639) from 1200 to 7200 duration
+* Changed Feline Queen - Haste (5640) from 1200 to 7200 duration
+* Changed not_used (5641) from 1200 to 7200 duration
+* Changed not_used (5642) from 1200 to 7200 duration
+* Changed Unicorn Seraphim - Acumen (5643) from 1200 to 7200 duration
+* Changed not_used (5644) from 1200 to 7200 duration
+* Changed not_used (5645) from 1200 to 7200 duration
+* Changed Unicorn Seraphim - Wild Magic (5646) from 1200 to 7200 duration
+* Changed Unicorn Seraphim - Clarity (5647) from 1200 to 7200 duration
+* Changed Unicorn Seraphim - Empower (5648) from 1200 to 7200 duration
+* Changed not_used (5649) from 1200 to 7200 duration
+* Changed not_used (5650) from 1200 to 7200 duration
+* Changed not_used (5651) from 1200 to 7200 duration
+* Changed Nightshade - Death Whisper (5652) from 1200 to 7200 duration
+* Changed Nightshade - Focus (5653) from 1200 to 7200 duration
+* Changed Nightshade - Guidance (5654) from 1200 to 7200 duration
+* Changed Gatekeeper Berserker Spirit (5659) from 1200 to 7200 duration
+* Changed Rapid Shot (5968) from 1200 to 7200 duration
+* Changed Seduced Knight's Help (5970) from 1200 to 7200 duration
+* Changed Seduced Ranger's Help (5971) from 1200 to 7200 duration
+* Changed Seduced Wizard's Help (5972) from 1200 to 7200 duration
+* Changed Seduced Warrior's Help (5973) from 1200 to 7200 duration
+* Changed Treasure Seeker's Betrayal (6033) from 1200 to 7200 duration
+* Changed Agathion Juju - Effect of Doubt (6137) from 1200 to 7200 duration
+* Changed Soul Weakness (6408) from 1200 to 7200 duration
+* Changed Maguen Plasma (6620) from 1200 to 7200 duration
+* Changed Maguen Plasma (6621) from 1200 to 7200 duration
+* Changed Maguen Speed Walk (6681) from 1200 to 7200 duration
+* Changed Elite Maguen Speed Walk (6682) from 1200 to 7200 duration
+* Changed Concentration of Elcadia (6723) from 1200 to 7200 duration
+* Changed Greater Chant of Vampire (7005) from 1200 to 7200 duration
+* Changed Super Haste (7029) from 1200 to 7200 duration
+* Changed Test - Party Damage Absorb (7079) from 1200 to 7200 duration
+* Changed Critical Up (8241) from 1200 to 7200 duration
+* Changed Dragon Aura (20005) from 1200 to 7200 duration
+* Changed Energy Recovery (21011) from 1200 to 7200 duration
+* Changed Energy Recovery (21012) from 1200 to 7200 duration
+* Changed Energy Recovery (21013) from 1200 to 7200 duration
+* Changed Berserker Spirit (21087) from 1200 to 7200 duration
+* Changed Blessed Body (21153) from 1200 to 7200 duration
+* Changed Blessed Soul (21154) from 1200 to 7200 duration
+* Changed Blessed Soul (21170) from 1200 to 7200 duration
+* Changed Age of the Three Kingdoms (21200) from 1200 to 7200 duration
+* Changed Haste (21201) from 1200 to 7200 duration
+* Changed Food of Doubt's Effect (22130) from 1200 to 7200 duration
+* Changed Rudolph Agathion Special Skill - Ability of Energy (23016) from 1200 to 7200 duration
+* Changed Agathion of Love Special Skill - Energy Recovery Ability (23024) from 1200 to 7200 duration
+* Changed Weaver Agathion Special Skill - Power of the Golden Calf (23077) from 1200 to 7200 duration
+* Changed Weaver Agathion Special Skill - Flute Sound (23078) from 1200 to 7200 duration
+* Changed Nepal Snow Agathion Special Skill - Snow's Haste (23136) from 1200 to 7200 duration
+* Changed Round Ball Snow Agathion Special Skill - Snow's Acumen (23138) from 1200 to 7200 duration
+* Changed Ladder Snow Agathion Special Skill - Snow's Wind Walk (23140) from 1200 to 7200 duration
+* Changed Prominent Outsider Adventurer's Ability (23153) from 1200 to 7200 duration
+* Changed Critical Seduction (23168) from 1200 to 7200 duration
+* Changed Three-headed Dragon Agathion Special Skill - Wind Walk (23182) from 1200 to 7200 duration
+* Changed Berserker Spirit (23213) from 1200 to 7200 duration
+* Changed Cheerleader Orodriel Agathion Special Skill - Joy of Cheering (23221) from 1200 to 7200 duration
+* Changed Cheerleader Lana Agathion Special Skill - Joy of Cheering (23223) from 1200 to 7200 duration
+* Changed Cheerleader Naonin Agathion Special Skill - Joy of Cheering (23225) from 1200 to 7200 duration
+* Changed Cheerleader Mortia Agathion Special Skill - Joy of Cheering (23227) from 1200 to 7200 duration
+* Changed Cheerleader Kaurin Agathion Special Skill - Joy of Cheering (23229) from 1200 to 7200 duration
+* Changed Cheerleader Meruril Agathion Special Skill - Joy of Cheering (23231) from 1200 to 7200 duration
+* Changed High grade potion which improves attack speed (26022) from 1200 to 7200 duration
+* Changed High grade potion which improves moving speed (26023) from 1200 to 7200 duration
+
 2015-09-14
 ---
 * Reduced skill cost of 309 skills.
